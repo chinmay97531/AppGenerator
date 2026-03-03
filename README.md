@@ -1,4 +1,4 @@
-# UIGen
+# AppGen
 
 AI-powered App generator with live preview.
 
